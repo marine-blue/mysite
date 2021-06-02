@@ -34,7 +34,12 @@ body {
   .copy-container h2 {
     font-size: 60px;
   }
-  
+
+  image.bot{
+  width:240px;
+  heitht:290px;
+  }
+
   .copy-container span {
     color: #ff4a4a;
   }
