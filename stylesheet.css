@@ -72,6 +72,11 @@ body {
     font-size: 60px;
   }
   
+  .img{
+  width:240px;
+  height:300x;
+  }
+
   .circle-image{
   background-image: url("26554.jpg");
   width:240px;
@@ -79,8 +84,6 @@ body {
   border-radius:50%;
   backbground-position:center top;
   }
-    
-
 
   .copy-container span {
     color: #ff4a4a;
