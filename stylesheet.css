@@ -79,7 +79,7 @@ body {
 
   .circle-image{
   background-image: url("26554.jpg");
-  background-size: 300;
+  background-size: 300px;
   width:240px;
   height:240px;
   border-radius:50%;
