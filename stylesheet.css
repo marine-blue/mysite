@@ -72,12 +72,17 @@ body {
     font-size: 60px;
   }
   
-  .img{
-  width:240px;
-  height:300x;
+  
+  .circle-imagebot{
+  background-image: url("robot1_blue.png");
+  background-size: 290px;
+  width:250px;
+  height:250px;
+  border-radius:50%;
+  background-position:270px top;
   }
 
-  .circle-image{
+  .circle-imageface{
   background-image: url("26554.jpg");
   background-size: 290px;
   width:250px;
