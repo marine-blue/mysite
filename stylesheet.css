@@ -79,11 +79,11 @@ body {
 
   .circle-image{
   background-image: url("26554.jpg");
-  background-size: 300px;
+  background-size: 290px;
   width:250px;
   height:250px;
   border-radius:50%;
-  background-position:120px top;
+  background-position:270px top;
   }
 
   .copy-container span {
